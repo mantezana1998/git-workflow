@@ -13,4 +13,10 @@
     background-color: blue;
 }
 
-table, td, th {border-style: solid;}
+.penguin-list {
+    background-color: gray;
+}
+
+table, td, th {
+  border-style: solid;
+}
