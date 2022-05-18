@@ -12,3 +12,11 @@
     /* Make the background blue */
     background-color: blue;
 }
+
+.penguin-list {
+    background-color: gray;
+}
+
+table, td, th {
+  border-style: solid;
+}
