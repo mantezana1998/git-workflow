@@ -12,3 +12,5 @@
     /* Make the background blue */
     background-color: blue;
 }
+
+table, td, th {border-style: solid;}
