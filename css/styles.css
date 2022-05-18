@@ -1,11 +1,14 @@
 .dog-container {
     /* Make the background red */
+    background-color: red;
 }
 
 .dog-container > ul, .cat-container > ul{
     /* Take off the bullet points in the list */
+    list-style: none;
 }
 
 .cat-container {
     /* Make the background blue */
+    background-color: blue;
 }
