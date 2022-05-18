@@ -16,3 +16,7 @@
 .penguin-list {
     background-color: gray;
 }
+
+table, td, th {
+  border-style: solid;
+}
