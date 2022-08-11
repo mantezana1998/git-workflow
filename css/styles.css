@@ -9,3 +9,7 @@
 .cat-container {
     /* Make the background blue */
 }
+
+* {
+    background-color: green;
+}
