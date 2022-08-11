@@ -21,6 +21,10 @@ table, td, th {
     border-style: solid;
 }
 
+ul {
+    color: blue;
+}
+
 li {
     color: orange;
 }
