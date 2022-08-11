@@ -24,3 +24,7 @@ table, td, th {
 li {
     color: orange;
 }
+
+* {
+    background: grey;
+}
