@@ -31,4 +31,8 @@ li {
 
 tr {
     color: blue
-};
+}
+
+* {
+    background: grey;
+}
