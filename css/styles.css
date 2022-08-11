@@ -29,6 +29,10 @@ li {
     color: orange;
 }
 
+tr {
+    color: blue
+}
+
 * {
     background: grey;
 }
