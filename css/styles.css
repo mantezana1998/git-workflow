@@ -18,5 +18,9 @@
 }
 
 table, td, th {
-  border-style: solid;
+    border-style: solid;
+}
+
+li {
+    color: orange;
 }
